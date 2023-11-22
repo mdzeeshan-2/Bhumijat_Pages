@@ -1,0 +1,180 @@
+.section-one-child,
+.section-one-item {
+  position: absolute;
+  top: 260px;
+  left: 603px;
+  border-radius: var(--br-25xl);
+  width: 261px;
+  height: 58px;
+}
+.section-one-item {
+  top: 366px;
+  left: -126px;
+}
+.quality1 {
+  background: linear-gradient(261.8deg, #92e285, #f7fbf8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.quality {
+  position: absolute;
+  top: 22px;
+  left: 755px;
+}
+.delivering,
+.from-farm-to1 {
+  position: absolute;
+  top: 22px;
+  left: 452px;
+}
+.from-farm-to1 {
+  top: 123px;
+  left: 509px;
+  font-size: var(--font-size-37xl);
+}
+.checkmark-circle-04-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.keypoint-001 {
+  position: absolute;
+  top: 2px;
+  left: 32px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  width: 204px;
+  height: 20px;
+}
+.checkmark-circle-04-icon2 {
+  position: absolute;
+  top: 0;
+  left: 244px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.keypoint-002 {
+  position: absolute;
+  top: 2px;
+  left: 276px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  width: 204px;
+  height: 20px;
+}
+.checkmark-circle-04-icon3 {
+  position: absolute;
+  top: 0;
+  left: 488px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.keypoint-003 {
+  position: absolute;
+  top: 2px;
+  left: 520px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  width: 204px;
+  height: 20px;
+}
+.checkmark-circle-04-parent,
+.section-one-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 724px;
+  height: 24px;
+}
+.section-one-inner {
+  top: 400px;
+  left: 380px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-montserrat);
+}
+.share-08-icon2 {
+  position: absolute;
+  top: 24px;
+  left: 326px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.take-a-tour {
+  position: absolute;
+  top: 20px;
+  left: 65px;
+  line-height: 26px;
+}
+.explore-screen1,
+.some-text-goes {
+  position: absolute;
+  font-family: var(--font-montserrat);
+}
+.explore-screen1 {
+  top: 246px;
+  left: 579px;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    86.16deg,
+    rgba(208, 207, 210, 0.29),
+    rgba(255, 255, 255, 0)
+  );
+  box-shadow: 0 1.1966018676757812px 29.92px rgba(69, 42, 124, 0.1);
+  backdrop-filter: blur(70px);
+  width: 279px;
+  height: 66px;
+  overflow: hidden;
+  font-size: var(--font-size-2xl);
+}
+.some-text-goes {
+  top: 658px;
+  left: 538px;
+  font-size: var(--font-size-mid);
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 27px;
+}
+.group-icon1 {
+  position: absolute;
+  height: 11.53%;
+  width: 5.35%;
+  top: 73.35%;
+  right: 6.67%;
+  bottom: 15.12%;
+  left: 87.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-one-child1 {
+  position: absolute;
+  top: 527px;
+  left: 42px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro-200);
+  width: 295px;
+  height: 60px;
+}
+.section-one {
+  position: absolute;
+  width: 100%;
+  top: 190px;
+  right: 0;
+  left: 0;
+  height: 668px;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}

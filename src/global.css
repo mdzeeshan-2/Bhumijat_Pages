@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-noto-sans: "Noto Sans";
+  --font-poppins: Poppins;
+  --font-jost: Jost;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-42xl: 61px;
+  --font-size-31xl: 50px;
+  --font-size-base: 16px;
+  --font-size-19xl: 38px;
+  --font-size-2xl: 21px;
+  --font-size-4xl: 23px;
+  --font-size-3xl: 22px;
+  --font-size-18xl: 37px;
+  --font-size-16xl: 35px;
+  --font-size-61xl: 80px;
+  --font-size-26xl: 45px;
+  --font-size-133xl: 152px;
+  --font-size-59xl: 78px;
+  --font-size-xs: 12px;
+  --font-size-mid: 17px;
+  --font-size-37xl: 56px;
+  --font-size-51xl: 70px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-yellowgreen: #84bd3e;
+  --color-palet-paragraph-color: #797979;
+  --color-gray-100: #1d1d1d;
+  --color-gray-200: #0d0c0e;
+  --color-seagreen: #449559;
+  --color-limegreen: #20db50;
+  --color-mediumspringgreen: #25d366;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.1);
+  --color-gainsboro-300: rgba(217, 217, 217, 0.2);
+  --color-darkgray: #b1b1b1;
+  --color-darkgreen: #097224;
+  --color-forestgreen: #168b34;
+  --color-palet-nav-menu-hover: #2d5f4d;
+  --color-lightgreen: #7ee787;
+
+  /* Gaps */
+  --gap-7xs: 6px;
+  --gap-105xl: 124px;
+  --gap-lg: 18px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-12xs-4: 0.4px;
+  --padding-6xs-8: 6.8px;
+  --padding-56xl: 75px;
+  --padding-181xl: 200px;
+  --padding-101xl: 120px;
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-2xs: 11px;
+  --br-68xl: 87px;
+  --br-60xl: 79px;
+  --br-7xl: 26px;
+  --br-51xl: 70px;
+  --br-12xl: 31px;
+  --br-13xl: 32px;
+  --br-2xl: 21px;
+  --br-21xl: 40px;
+  --br-25xl: 44px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-5xs: 8px;
+}

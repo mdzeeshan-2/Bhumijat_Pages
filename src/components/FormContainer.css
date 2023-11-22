@@ -1,0 +1,131 @@
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xl);
+  width: 1256px;
+  height: 625.5px;
+}
+.what-is-a {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: 0;
+  line-height: 27px;
+  font-weight: 600;
+}
+.vector-icon {
+  position: absolute;
+  height: 47.45%;
+  width: 2.95%;
+  top: 25%;
+  right: 1.11%;
+  bottom: 27.55%;
+  left: 95.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1160px;
+  height: 36px;
+}
+.polygon-down-d1093c8dfasvg {
+  position: absolute;
+  top: 6px;
+  left: 1133px;
+}
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  left: 95.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 94.91%;
+  width: 1.47%;
+  top: 69.68%;
+  right: 2.58%;
+  bottom: -64.58%;
+  display: none;
+}
+.vector-icon2 {
+  height: 47.45%;
+  width: 2.95%;
+  top: 22.22%;
+  right: 1.11%;
+  bottom: 30.32%;
+}
+.label1,
+.label2,
+.label3 {
+  position: absolute;
+  left: 0;
+  width: 1160px;
+  height: 36px;
+}
+.label1 {
+  top: 92px;
+  font-size: var(--font-size-3xl);
+}
+.label2,
+.label3 {
+  top: 184px;
+}
+.label3 {
+  top: 276px;
+}
+.faq-child {
+  position: absolute;
+  top: 42.5px;
+}
+.faq-child,
+.faq-inner,
+.faq-item {
+  left: -0.5px;
+  border-top: 1px solid var(--color-limegreen);
+  box-sizing: border-box;
+  width: 1148px;
+  height: 1px;
+}
+.faq-item {
+  position: absolute;
+  top: 135.5px;
+}
+.faq-inner {
+  top: 227.5px;
+}
+.faq,
+.faq-inner,
+.line-div {
+  position: absolute;
+}
+.line-div {
+  top: 323.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-limegreen);
+  box-sizing: border-box;
+  width: 1148px;
+  height: 1px;
+}
+.faq {
+  top: 234.45px;
+  left: 64.93px;
+  width: 1160px;
+  height: 324px;
+}
+.vector-container {
+  position: absolute;
+  top: 8438px;
+  left: 90px;
+  width: 1256px;
+  height: 625.5px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

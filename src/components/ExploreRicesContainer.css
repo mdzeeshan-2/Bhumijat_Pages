@@ -1,0 +1,43 @@
+.group-child7 {
+  border-radius: var(--br-51xl);
+  background-color: var(--color-mediumspringgreen);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child7,
+.group-frame,
+.group-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 435px;
+  height: 94px;
+}
+.group-wrapper1 {
+  left: 449px;
+  cursor: pointer;
+}
+.explore-rices,
+.explore-spices {
+  position: absolute;
+  top: 34px;
+  left: 96px;
+  line-height: 26px;
+  cursor: pointer;
+  color: white;
+}
+.explore-spices {
+  left: 526px;
+}
+.group-parent1 {
+  position: absolute;
+  cursor: pointer;
+  top: 4779px;
+  left: 53px;
+  width: 884px;
+  height: 94px;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

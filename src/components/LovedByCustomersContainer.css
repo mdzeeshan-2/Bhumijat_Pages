@@ -1,0 +1,83 @@
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 617px;
+  height: 63px;
+}
+.image-304-icon {
+  position: absolute;
+  top: 16px;
+  left: 19px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.skilled-farmers {
+  position: absolute;
+  top: 23px;
+  left: 60px;
+  font-weight: 500;
+}
+.image-305 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 31px;
+}
+.skilled-farmers1 {
+  position: absolute;
+  top: 7px;
+  left: 41px;
+  font-weight: 500;
+}
+.group-container,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 31px;
+}
+.group-wrapper {
+  top: 16px;
+  left: 451px;
+}
+.loved-by-customers {
+  position: absolute;
+  top: 20px;
+  left: 257px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.image-258-icon,
+.image-28-icon {
+  position: absolute;
+  top: 18px;
+  left: 458px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.image-28-icon {
+  top: 12px;
+  left: 215px;
+  width: 35px;
+  height: 35px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 826px;
+  left: 436px;
+  width: 617px;
+  height: 63px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

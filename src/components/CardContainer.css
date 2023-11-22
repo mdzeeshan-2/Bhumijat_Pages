@@ -1,0 +1,74 @@
+.bmjt-logo-black-1-png-1,
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 183px;
+  height: 95px;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 23px;
+  left: 1115px;
+  width: 197px;
+  height: 54px;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+}
+.hovered-child {
+  position: relative;
+  width: 47.01px;
+  height: 6.93px;
+}
+.hovered {
+  position: absolute;
+  top: 38px;
+  left: 461px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--color-palet-nav-menu-hover);
+}
+.about,
+.blogs,
+.rice,
+.spices {
+  position: absolute;
+  top: 38px;
+  left: 557px;
+  font-weight: 500;
+}
+.blogs,
+.rice,
+.spices {
+  left: 654px;
+}
+.blogs,
+.spices {
+  left: 736px;
+}
+.blogs {
+  left: 837px;
+}
+.bmjt-logo-black-1-png-1-parent {
+  position: relative;
+  width: 1312px;
+  height: 95px;
+}
+.nav-menu {
+  position: absolute;
+  top: calc(50% - 5682.5px);
+  left: calc(50% - 656px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-palet-paragraph-color);
+  font-family: var(--font-poppins);
+}
